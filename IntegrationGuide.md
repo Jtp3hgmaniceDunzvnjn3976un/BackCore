@@ -1,1 +1,2 @@
 IntegrationSteps
+SetupGuide
