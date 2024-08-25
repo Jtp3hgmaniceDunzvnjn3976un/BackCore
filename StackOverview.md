@@ -1,2 +1,3 @@
 FullStackHubOverview
 StackComponents
+FrontendDetails
