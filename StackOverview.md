@@ -1,3 +1,4 @@
 FullStackHubOverview
 StackComponents
 FrontendDetails
+DependenciesList
