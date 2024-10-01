@@ -2,3 +2,4 @@ FullStackHubOverview
 StackComponents
 FrontendDetails
 DependenciesList
+WorkflowOverview
