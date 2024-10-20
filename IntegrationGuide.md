@@ -2,3 +2,4 @@ IntegrationSteps
 SetupGuide
 BackendIntegration
 CodeExamples
+ConfigSettings
