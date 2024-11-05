@@ -3,3 +3,4 @@ StackComponents
 FrontendDetails
 DependenciesList
 WorkflowOverview
+ContributionRules

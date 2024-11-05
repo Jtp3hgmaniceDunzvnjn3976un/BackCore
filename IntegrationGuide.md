@@ -3,3 +3,4 @@ SetupGuide
 BackendIntegration
 CodeExamples
 ConfigSettings
+CommunityGuidelines
