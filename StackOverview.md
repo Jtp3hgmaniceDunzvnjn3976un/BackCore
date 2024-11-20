@@ -4,3 +4,4 @@ FrontendDetails
 DependenciesList
 WorkflowOverview
 ContributionRules
+ErrorHandling
