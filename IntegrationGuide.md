@@ -4,3 +4,4 @@ BackendIntegration
 CodeExamples
 ConfigSettings
 CommunityGuidelines
+LicenseDetails

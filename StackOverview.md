@@ -5,3 +5,4 @@ DependenciesList
 WorkflowOverview
 ContributionRules
 ErrorHandling
+LegalNotes
