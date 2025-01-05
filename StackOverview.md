@@ -6,3 +6,4 @@ WorkflowOverview
 ContributionRules
 ErrorHandling
 LegalNotes
+Changelog

@@ -6,3 +6,4 @@ ConfigSettings
 CommunityGuidelines
 LicenseDetails
 FullStackFAQ
+VersionUpdates
