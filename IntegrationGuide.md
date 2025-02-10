@@ -7,3 +7,4 @@ CommunityGuidelines
 LicenseDetails
 FullStackFAQ
 VersionUpdates
+PerformanceMetrics
