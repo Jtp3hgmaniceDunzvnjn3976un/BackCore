@@ -8,3 +8,4 @@ LicenseDetails
 FullStackFAQ
 VersionUpdates
 PerformanceMetrics
+CommunityResources
